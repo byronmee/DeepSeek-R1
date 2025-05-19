@@ -30,7 +30,7 @@
 
 ## 1. Introduction
 
-We introduce our first-generation reasoning models, DeepSeek-R1-Zero and DeepSeek-R1. 
+We introduces our first-generation reasoning models, DeepSeek-R1-Zero and DeepSeek-R1. 
 DeepSeek-R1-Zero, a model trained via large-scale reinforcement learning (RL) without supervised fine-tuning (SFT) as a preliminary step, demonstrated remarkable performance on reasoning.
 With RL, DeepSeek-R1-Zero naturally emerged with numerous powerful and interesting reasoning behaviors.
 However, DeepSeek-R1-Zero encounters challenges such as endless repetition, poor readability, and language mixing. To address these issues and further enhance reasoning performance,
